@@ -1,0 +1,9 @@
+appId: govrn.sefaz.esefazmobile
+---
+- runFlow: login-sucesso.yaml
+
+- assertVisible: "Grupo de Serviços"
+
+- tapOn: "Trânsito"
+- tapOn: "Procedimentos TRM"
+

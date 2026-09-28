@@ -1,0 +1,12 @@
+appId: govrn.sefaz.esefazmobile
+---
+
+- launchApp
+- tapOn: "CPF"
+- inputText: "05503681401"
+
+- tapOn: "Senha SIGAT"
+- inputText: "123"
+
+- tapOn: "Back"
+- tapOn: "Entrar"

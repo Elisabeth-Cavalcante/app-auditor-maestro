@@ -1,0 +1,9 @@
+appId: com.qazandoqafood
+tags:
+  - android
+  - passing
+---
+- launchApp
+- tapOn: "E-mail"
+- tapOn: "Senha"
+- tapOn: "login-button"
